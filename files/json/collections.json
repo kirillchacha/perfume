@@ -1,0 +1,184 @@
+{
+	"item": [
+		{
+			"id": "1",
+			"title": "Amor et insania",
+			"price": {
+				"value": "1,250",
+				"old-value": "1 950,00"
+			},
+			"unisexLabel": "Унісекс",
+			"saleLabel": "-30%",
+			"image": "img/products/product-1",
+			"url": "http://192.168.1.106:8080/amor-et-insania.html"
+		}
+	],
+	"itemTwo": [
+		{
+			"id": "2",
+			"name": "LINEAR",
+			"price": {
+				"value": "1,250",
+				"old-value": "1 950,00"
+			},
+			"unisexLabel": "Унісекс",
+			"saleLabel": "-30%",
+			"image": "img/products/product-1",
+			"url": "http://192.168.1.106:8080/amor-et-insania.html"
+		}
+	],
+	"itemThree": [
+		{
+			"id": "3",
+			"name": "LINEAR",
+			"price": {
+				"value": "1,250",
+				"oldValue": "1 950,00"
+			},
+			"unisexLabel": "Унісекс",
+			"saleLabel": "-30%",
+			"image": "img/products/product-1",
+			"url": "http://192.168.1.106:8080/amor-et-insania.html"
+		}
+	],
+	"itemFour": [
+		{
+			"id": "4",
+			"name": "LINEAR",
+			"price": {
+				"value": "1,250",
+				"oldValue": "1 950,00"
+			},
+			"unisexLabel": "Унісекс",
+			"saleLabel": "-30%",
+			"image": "img/products/product-1",
+			"url": "http://192.168.1.106:8080/amor-et-insania.html"
+		}
+	],
+	"itemFive": [
+		{
+			"id": "5",
+			"name": "LINEAR",
+			"price": {
+				"value": "1,250",
+				"oldValue": "1 950,00"
+			},
+			"unisexLabel": "Унісекс",
+			"saleLabel": "-30%",
+			"image": "img/products/product-1",
+			"url": "http://192.168.1.106:8080/amor-et-insania.html"
+		}
+	],
+	"itemFive": [
+		{
+			"id": "6",
+			"name": "LINEAR",
+			"price": {
+				"value": "1,250",
+				"oldValue": "1 950,00"
+			},
+			"unisexLabel": "Унісекс",
+			"saleLabel": "-30%",
+			"image": "img/products/product-1",
+			"url": "http://192.168.1.106:8080/amor-et-insania.html"
+		}
+	],
+	"itemFive": [
+		{
+			"id": "7",
+			"name": "LINEAR",
+			"price": {
+				"value": "1,250",
+				"oldValue": "1 950,00"
+			},
+			"unisexLabel": "Унісекс",
+			"saleLabel": "-30%",
+			"image": "img/products/product-1",
+			"url": "http://192.168.1.106:8080/amor-et-insania.html"
+		}
+	],
+	"itemFive": [
+		{
+			"id": "8",
+			"name": "LINEAR",
+			"price": {
+				"value": "1,250",
+				"oldValue": "1 950,00"
+			},
+			"unisexLabel": "Унісекс",
+			"saleLabel": "-30%",
+			"image": "img/products/product-1",
+			"url": "http://192.168.1.106:8080/amor-et-insania.html"
+		}
+	],
+	"itemFive": [
+		{
+			"id": "9",
+			"name": "LINEAR",
+			"price": {
+				"value": "1,250",
+				"oldValue": "1 950,00"
+			},
+			"unisexLabel": "Унісекс",
+			"saleLabel": "-30%",
+			"image": "img/products/product-1",
+			"url": "http://192.168.1.106:8080/amor-et-insania.html"
+		}
+	],
+	"itemFive": [
+		{
+			"id": "10",
+			"name": "LINEAR",
+			"price": {
+				"value": "1,250",
+				"oldValue": "1 950,00"
+			},
+			"unisexLabel": "Унісекс",
+			"saleLabel": "-30%",
+			"image": "img/products/product-1",
+			"url": "http://192.168.1.106:8080/amor-et-insania.html"
+		}
+	],
+	"itemFive": [
+		{
+			"id": "11",
+			"name": "LINEAR",
+			"price": {
+				"value": "1,250",
+				"oldValue": "1 950,00"
+			},
+			"unisexLabel": "Унісекс",
+			"saleLabel": "-30%",
+			"image": "img/products/product-1",
+			"url": "http://192.168.1.106:8080/amor-et-insania.html"
+		}
+	],
+	"itemFive": [
+		{
+			"id": "12",
+			"name": "LINEAR",
+			"price": {
+				"value": "1,250",
+				"oldValue": "1 950,00"
+			},
+			"unisexLabel": "Унісекс",
+			"saleLabel": "-30%",
+			"image": "img/products/product-1",
+			"url": "http://192.168.1.106:8080/amor-et-insania.html"
+		}
+	],
+	"itemFive": [
+		{
+			"id": "13",
+			"name": "LINEAR",
+			"price": {
+				"value": "1,250",
+				"oldValue": "1 950,00"
+			},
+			"unisexLabel": "Унісекс",
+			"saleLabel": "-30%",
+			"image": "img/products/product-1",
+			"url": "http://192.168.1.106:8080/amor-et-insania.html"
+		}
+	],
+}
